@@ -1,11 +1,11 @@
 # kadir-karaharman.github.io
 this is a my cv 
-a
-a
-a
-a
-a
-a
+a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+#a
+#a
+#a
+#a
+#a
 a
 a
 a
